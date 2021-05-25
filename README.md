@@ -33,6 +33,8 @@ Compatible with: Any PC or laptop with Python and Selenium installed on Chrome, 
 1. Install `Python` (Any 3.x.x version)
 2. Install `selenium` (https://pypi.org/project/selenium/)
 3. Install `Webdriver` (For Chrome: https://chromedriver.chromium.org/, similarly find specific driver for your browser)
+### OR
+    pip install -r requirements.txt
 
 ## Usage
 
